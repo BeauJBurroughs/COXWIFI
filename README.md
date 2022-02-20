@@ -1,4 +1,4 @@
 # COXWIFI
-In networkmanager set mac to random
-run as root to control network interfaces
-*Put ip of host in hosts file if problems resolving.*
+1. In networkmanager set mac to random
+2. run as root to control network interfaces
+3. *Put ip of host in hosts file if problems resolving.*

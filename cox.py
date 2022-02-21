@@ -144,7 +144,7 @@ def register():
     f.write("Todays Date: " + str(datetime.now()) + "\n")
     f.write("New Mac: " + MAC + "\n")
     f.write("New Email: " + EMAIL + "\n")
-    f.write("========================================================================")
+    f.write("========================================================================\n")
     return True
 
 
